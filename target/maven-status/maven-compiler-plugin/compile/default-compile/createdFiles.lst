@@ -1,0 +1,5 @@
+com/gendron/mvnProject2/repository/FriendRepository.class
+com/gendron/mvnProject2/controllers/FriendsController.class
+com/gendron/mvnProject2/entity/Friend.class
+com/gendron/mvnProject2/service/FriendsService.class
+com/gendron/mvnProject2/App.class
